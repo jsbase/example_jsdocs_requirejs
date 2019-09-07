@@ -1,0 +1,26 @@
+{
+  "name": "jsdoc_example",
+  "version": "1.0.0",
+  "description": "jsdoc examples\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "mycomponent/myApp.js",
+  "scripts": {
+    "doc": "jsdoc -r mycomponent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbase/jsdoc_example.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "example"
+  ],
+  "author": "Andre Siedersleben <andre.siedersleben@meinestadt.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbase/jsdoc_example/issues"
+  },
+  "homepage": "https://github.com/jsbase/jsdoc_example#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}

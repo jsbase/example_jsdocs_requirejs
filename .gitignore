@@ -36,6 +36,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+# doc folders
+out/
+doc/
+
 # TypeScript v1 declaration files
 typings/
 

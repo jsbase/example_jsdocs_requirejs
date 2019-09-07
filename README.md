@@ -1,2 +1,3 @@
-# jsdoc_example
-jsdoc_example
+# jsdoc example for requirejs
+
+`npm run doc`
