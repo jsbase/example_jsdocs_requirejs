@@ -2,7 +2,7 @@ define('one', function() {
     /**
      * This is the description of module `one`.
      * @exports one
-     * @author Andre Siedersleben &lt;andre.siedersleben@meinestadt.de>
+     * @author jsbase
      * @version 1.0.0
      * @see myApp
      */
