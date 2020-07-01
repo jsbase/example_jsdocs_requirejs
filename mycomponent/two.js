@@ -2,7 +2,7 @@ define('two', function () {
     /**
      * This is the description of module `mycomponent/two`.
      * @module two
-     * @author Andre Siedersleben &lt;andre.siedersleben@meinestadt.de>
+     * @author jsbase
      * @version 1.0.0
      * @see myApp
      */
